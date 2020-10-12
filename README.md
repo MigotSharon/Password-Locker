@@ -12,7 +12,7 @@
 * python3.6
 
 # known bugs
-
+* still working on the project
 # contact information
 * Email:migotsharon@gmail.com
 
