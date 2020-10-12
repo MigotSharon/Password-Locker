@@ -11,6 +11,17 @@
 # Technologies used
 * python3.6
 
+# Want to contribute
+* fork the project and then:
+* Open terminal
+* git clone
+* cd directory-name(password-locker) 
+* code
+# Running the Application
+* Open the clone file in your terminal and run the following command:
+* $ chmod +x run.py
+* $ ./run.py
+
 # known bugs
 * still working on the project
 # contact information
